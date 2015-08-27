@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.QuicklyStore.zqsh</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>爱助家商户版</string>
+				<string>快商店</string>
 			</dict>
 		</dict>
 	</array>
